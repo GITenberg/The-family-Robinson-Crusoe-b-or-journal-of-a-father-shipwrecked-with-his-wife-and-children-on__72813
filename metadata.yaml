@@ -1,0 +1,35 @@
+_repo: The-family-Robinson-Crusoe-b-or-journal-of-a-father-shipwrecked-with-his-wife-and-children-on__72813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wyss, Johann David
+    alias: Wyss, J. D. (Johann David)
+    birthdate: 1743
+    deathdate: 1818
+    gutenberg_agent_id: '1327'
+    url: http://www.gutenberg.org/2009/agents/1327
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Johann_David_Wyss
+    - https://fr.wikipedia.org/wiki/Johann_David_Wyss
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72813'
+language: en
+pgterms:marc904:
+- https://archive.org/details/family_robinson_crusoe_v2/page/n7/mode/2up
+- https://archive.org/details/family-robinson-crusoe-v1/page/n5/mode/2up
+pgterms:marc905: 20230916152630wyss
+pgterms:marc906: '1816'
+pgterms:marc907: GB
+production_note: Lauren Prichard
+publication_note: '  $aLondon :$bM.J. Godwin and Co., $c1816.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The family Robinson Crusoe : $b or, journal of a father shipwrecked, with
+  his wife and children, on an uninhabited island.'
+url: http://www.gutenberg.org/ebooks/72813
