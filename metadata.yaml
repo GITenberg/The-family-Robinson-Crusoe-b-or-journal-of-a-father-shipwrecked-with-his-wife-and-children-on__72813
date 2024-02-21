@@ -1,5 +1,8 @@
 _repo: The-family-Robinson-Crusoe-b-or-journal-of-a-father-shipwrecked-with-his-wife-and-children-on__72813
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72813-h/images/cover.jpg
 creator:
   author:
     agent_name: Wyss, Johann David
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Johann_David_Wyss
     - https://fr.wikipedia.org/wiki/Johann_David_Wyss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72813#The-family-Robinson-Crusoe-b-or-journal-of-a-father-shipwrecked-with-his-wife-and-children-on_
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
